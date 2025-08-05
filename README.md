@@ -11,6 +11,8 @@
     Python, C++, Java
     <p align="left">
       <img src="python.svg" width=35px style="padding-right:5px;" draggable="false" title="Python">
+      <img src="c-plusplus.svg" width=35px style="padding-right:5px;" draggable="false" title="Python">
+      <img src="java.svg" width=35px style="padding-right:5px;" draggable="false" title="Python">
     </p>
 
 
