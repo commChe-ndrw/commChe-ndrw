@@ -29,7 +29,7 @@
 
 # <a id="contacts_ru" href="#contacts_ru">📧 Контакты</a>
 * Телеграм: [@commChe](https://t.me/commChe)
-* Профиль на [GitHub](https://github.com/commanderChe)
+* Профиль на [GitHub](https://github.com/commChe-ndrw)
 
 </div>
 </section>
