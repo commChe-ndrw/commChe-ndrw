@@ -40,7 +40,7 @@
 Находятся в репозиториях.
 
 # <a id="contacts_ru" href="#contacts_ru">📧 Контакты</a>
-* Телеграм: [@commanderChe](https://t.me/commChe)
+* Телеграм: [@commChe](https://t.me/commChe)
 * Профиль на [GitHub](https://github.com/commanderChe)
 
 </div>
