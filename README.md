@@ -8,7 +8,7 @@
 # <a id="skills_ru" href="#skills_ru">🛠️ Hard skills</a>
 
 * ### Основной стек
-    Python, C++, Java, HTML, CSS
+    Python, C++, Java, HTML, CSS, matplotlib
     <p align="left">
       <img src="python.svg" width=35px style="padding-right:5px;" draggable="false" title="Python">
       <img src="c-plusplus.svg" width=35px style="padding-right:5px;" draggable="false" title="Python">
